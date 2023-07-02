@@ -10,3 +10,5 @@ HUBLI METI
 hubli meti
 Ending of a file
 
+Stopped
+hello
