@@ -1,9 +1,2 @@
 Starting of a file
-DEEPAK KUMAR
-deepak meti
-
-
-Middle of a file
-HUBLI METI
-hubli meti
 Ending of a file
