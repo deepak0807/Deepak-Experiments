@@ -3,7 +3,5 @@ Hello
 Middle of a file
 HUBLI METI
 hubli meti
-
-added in between
 Ending of a file
 Added one more line
