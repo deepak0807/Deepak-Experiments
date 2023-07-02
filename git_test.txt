@@ -1,9 +1,7 @@
 Starting of a file
-DEEPAK KUMAR
-deepak meti
-Changed
-
+Hello
 Middle of a file
 HUBLI METI
 hubli meti
 Ending of a file
+Added one more line
