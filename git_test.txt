@@ -12,3 +12,4 @@ Ending of a file
 
 Stopped
 hello
+THIS IS NEW LINe
